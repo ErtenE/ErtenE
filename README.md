@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErtenE
 - 👀 I’m interested in Cyber Security and programming
 - 🌱 I’m currently learning Python, Java, Java script and Linux
-- 💞️ I’m looking to collaborate on Cyber security alligns
+- 💞️ I’m looking to collaborate on Cyber security crews
 - 📫 How to reach me @here
 
 <!---
