@@ -2,7 +2,8 @@
 - 👀 I’m interested in Cyber Security and Backend programming
 - 🌱 I’m currently learning in programming languages: Python, Java, JavaScript
 - 🌱 Also learning Node.js, Spring Framework, Django Framework
--    Linux and Kali
+- 🌱 Database: SQL; Postgresql NoSQL; MongoDB
+- 🌱Kernel:  Linux and Kali
 - 💞️ I’m looking to collaborate on Cyber Security crews and programming communities
 - 📫 How to reach me? @here or my twitter address.
 
