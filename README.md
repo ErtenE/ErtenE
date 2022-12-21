@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ErtenE
-- 👀 I’m interested in Cyber Security and programming
-- 🌱 I’m currently learning in programming languages: Python, Java, JavaScript 
-- Learning also Linux and Kali
-- 💞️ I’m looking to collaborate on Cyber security crews
+- 👀 I’m interested in Cyber Security and Backend programming
+- 🌱 I’m currently learning in programming languages: Python, Java, JavaScript
+- 🌱 Also learning Node.js, Spring Framework, Django Framework
+-    Linux and Kali
+- 💞️ I’m looking to collaborate on Cyber Security crews and programming communities
 - 📫 How to reach me @here
 
 <!---
