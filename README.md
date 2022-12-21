@@ -4,7 +4,7 @@
 - 🌱 Also learning Node.js, Spring Framework, Django Framework
 -    Linux and Kali
 - 💞️ I’m looking to collaborate on Cyber Security crews and programming communities
-- 📫 How to reach me @here
+- 📫 How to reach me? @here or my twitter address.
 
 <!---
 ErtenE/ErtenE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
