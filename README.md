@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ErtenE
 - 👀 I’m interested in Cyber Security and Backend programming
-- 🌱 I’m currently learning in programming languages: Python, Java, JavaScript
+- 🌱 I’m currently learning in programming languages: Python, Java, JavaScript, SQL
 - 🌱 Also learning Node.js, Spring Framework, Django Framework
-- 🌱 Database: SQL; Postgresql NoSQL; MongoDB, Firebase
+- 🌱 Database: SQL; OracleSQL, Postgresql. NoSQL; MongoDB, Firebase
 - 🌱 GUI: Tkinter/Customtkinter, Pyqt5, Swing
 - 🌱Kernel:  Linux and Kali
 - 💞️ I’m looking to collaborate on Cyber Security crews and programming communities
