@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning in programming languages: Python, Java, JavaScript
 - 🌱 Also learning Node.js, Spring Framework, Django Framework
 - 🌱 Database: SQL; Postgresql NoSQL; MongoDB, Firebase
+- 🌱 GUI: Tkinter/Customtkinter, Pyqt5, Swing
 - 🌱Kernel:  Linux and Kali
 - 💞️ I’m looking to collaborate on Cyber Security crews and programming communities
 - 📫 How to reach me? @here or my twitter address.
